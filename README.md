@@ -17,3 +17,4 @@ A powerful batch script designed to enhance privacy and performance on Windows 1
 
 ## ⚠️ Disclaimer
 This script modifies system settings and registry keys. Use it at your own risk. It is recommended to create a System Restore point before running.
+Please read it carefully I'm still learning.
